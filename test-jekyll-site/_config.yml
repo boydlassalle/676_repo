@@ -24,8 +24,8 @@ description: >- # A cool new website for my 676 class"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # "/676_repo"
-url: "" # "https://boydlassalle.github.io/jekyll-test-site"
+baseurl: "jekyll-test-site"
+url: "https://boydlassalle.github.io/676_repo"
 twitter_username: jekyllrb
 github_username:  boydlassalle
 
