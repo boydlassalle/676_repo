@@ -25,7 +25,7 @@ description: >- # A cool new website for my 676 class"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # "/676_repo"
-url: "" # "https://jekyll-test-site.github.io"
+url: "" # "https://boydlassalle.github.io/jekyll-test-site"
 twitter_username: jekyllrb
 github_username:  boydlassalle
 
